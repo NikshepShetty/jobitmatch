@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1299.08" report="details" display="short">
+	<task id="14669" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14669">
+		<statement>Verify stability, interoperability, portability, security, or scalability of system architecture.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="14682" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14682">
+		<statement>Develop system engineering, software engineering, system integration, or distributed system architectures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="14670" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14670">
+		<statement>Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="14673" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14673">
+		<statement>Identify system data, hardware, or software components required to meet user needs.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="14666" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14666">
+		<statement>Communicate with staff or clients to understand specific system requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="14686" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14686">
+		<statement>Research, test, or verify proper functioning of software patches and fixes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14667" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14667">
+		<statement>Provide advice on project costs, design concepts, or design changes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14691" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14691">
+		<statement>Perform security analyses of developed or packaged software components.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="14672" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14672">
+		<statement>Provide technical guidance or support for the development or troubleshooting of systems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="14668" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.08/related/tasks/14668">
+		<statement>Document design specifications, installation instructions, and other system-related information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+</tasks>

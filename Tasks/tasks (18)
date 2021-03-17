@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1212.00" report="details" display="short">
+	<task id="5314" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5314">
+		<statement>Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="5316" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5316">
+		<statement>Monitor current reports of computer viruses to determine when to update virus protection systems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="5321" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5321">
+		<statement>Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="5320" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5320">
+		<statement>Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="5317" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5317">
+		<statement>Modify computer security files to incorporate new software, correct errors, or change individual access status.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="5323" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5323">
+		<statement>Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="5322" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5322">
+		<statement>Document computer security and emergency measures policies, procedures, and tests.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="5315" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5315">
+		<statement>Confer with users to discuss issues such as computer data access needs, security violations, and programming changes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="5319" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5319">
+		<statement>Monitor use of data files and regulate access to safeguard information in computer files.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="5318" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1212.00/related/tasks/5318">
+		<statement>Coordinate implementation of computer system plan with establishment personnel and outside vendors.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+</tasks>

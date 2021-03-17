@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1253.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example hot_technology="134">Apache Ant</example>
+		<example hot_technology="79">Common business oriented language COBOL</example>
+		<example hot_technology="173">Go</example>
+		<example hot_technology="112">Microsoft PowerShell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example>Airtable</example>
+		<example hot_technology="105">Apache Hive</example>
+		<example>Blackboard software</example>
+		<example hot_technology="35">Transact-SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tools_technology/43232406">
+		<title id="43232406">Program testing software</title>
+		<example>Hewlett Packard LoadRunner</example>
+		<example>IBM Rational Robot</example>
+		<example hot_technology="124">JUnit</example>
+		<example hot_technology="126">Selenium</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="90">Advanced business application programming ABAP</example>
+		<example hot_technology="177">Apache Spark</example>
+		<example hot_technology="68">Objective C</example>
+		<example hot_technology="150">Scala</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tools_technology/43232408">
+		<title id="43232408">Web platform development software</title>
+		<example hot_technology="121">Backbone.js</example>
+		<example hot_technology="104">Google AngularJS</example>
+		<example hot_technology="138">Microsoft ASP.NET Core MVC</example>
+		<example hot_technology="158">React</example>
+	</category>
+</technology_skills>

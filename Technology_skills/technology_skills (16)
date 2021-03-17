@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1299.03" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tools_technology/43232202">
+		<title id="43232202">Document management software</title>
+		<example hot_technology="27">Adobe Systems Adobe Acrobat</example>
+		<example>Alfresco Software Alfresco</example>
+		<example>FileHold Systems FileHold</example>
+		<example>Records management software</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tools_technology/43232103">
+		<title id="43232103">Video creation and editing software</title>
+		<example>Apple Final Cut Pro</example>
+		<example>WeVideo</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tools_technology/43231602">
+		<title id="43231602">Enterprise resource planning ERP software</title>
+		<example>Business process management BPM software</example>
+		<example hot_technology="63">Microsoft Dynamics</example>
+		<example>Oracle PeopleSoft Financials</example>
+		<example>SAP ERP Financials</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example>CAPSYS Capture</example>
+		<example>EMC Captiva</example>
+		<example>Microsoft Office Document Imaging</example>
+		<example>Office Gemini Diamond Vision</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example>FileMaker Pro</example>
+		<example hot_technology="28">Microsoft Access</example>
+		<example hot_technology="12">Microsoft SQL Server</example>
+		<example>Vertafore ImageRight</example>
+	</category>
+</technology_skills>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-2051.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example hot_technology="134">Apache Ant</example>
+		<example hot_technology="79">Common business oriented language COBOL</example>
+		<example hot_technology="173">Go</example>
+		<example hot_technology="112">Microsoft PowerShell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example>Airtable</example>
+		<example hot_technology="162">Amazon Elastic Compute Cloud EC2</example>
+		<example hot_technology="61">Oracle JDBC</example>
+		<example hot_technology="35">Transact-SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tools_technology/43232408">
+		<title id="43232408">Web platform development software</title>
+		<example hot_technology="154">Apache Tomcat</example>
+		<example hot_technology="122">Django</example>
+		<example hot_technology="145">JavaScript Object Notation JSON</example>
+		<example hot_technology="137">Microsoft ASP.NET</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tools_technology/43232304">
+		<title id="43232304">Data base management system software</title>
+		<example hot_technology="176">Amazon DynamoDB</example>
+		<example hot_technology="105">Apache Hive</example>
+		<example hot_technology="143">Elasticsearch</example>
+		<example hot_technology="67">MongoDB</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="90">Advanced business application programming ABAP</example>
+		<example hot_technology="135">Apache Groovy</example>
+		<example hot_technology="16">jQuery</example>
+		<example hot_technology="150">Scala</example>
+	</category>
+</technology_skills>

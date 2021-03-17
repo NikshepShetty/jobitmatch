@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+<!-- 
+<div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus quis purus sit amet aliquet. Ut eget nulla ac ligula tincidunt vulputate nec eget quam. Vivamus vehicula nec nulla hendrerit sodales. Fusce suscipit cursus dapibus. Sed mi arcu, bibendum vitae gravida vitae, tempus sed leo. Phasellus lacinia malesuada mauris, vitae facilisis dui cursus ut. Sed ultrices ante feugiat facilisis porttitor.
+
+Morbi fermentum quam id nulla aliquet volutpat. Ut tincidunt nisi lorem, in maximus felis porttitor nec. Proin ipsum nulla, rhoncus ut euismod in, faucibus non nulla. Donec efficitur vestibulum cursus. Pellentesque elit tortor, consequat et libero sit amet, hendrerit congue turpis. Quisque vitae dui sit amet lacus placerat pulvinar vitae ut magna. Nam mollis, tellus nec lobortis pulvinar, arcu eros imperdiet augue, et iaculis justo sem at mi. Nullam in mi mattis, scelerisque dolor eu, tincidunt enim. Aenean luctus auctor nibh, eget hendrerit urna imperdiet id. Quisque a ultrices tellus. Pellentesque a dictum augue. Sed vitae metus sem. Pellentesque auctor arcu non magna rutrum auctor. Donec id dignissim tortor. Ut vulputate, sem ut auctor maximus, metus felis euismod enim, sed lobortis nibh lorem at purus.
+
+Curabitur placerat tellus eu orci auctor, vitae semper erat scelerisque. Fusce convallis nisi et nulla sagittis lacinia. Donec sit amet risus ut risus tempor pulvinar rhoncus ut urna. Nullam nec scelerisque erat. Suspendisse vel sollicitudin neque, at cursus dolor. Maecenas tincidunt augue ac dui sodales bibendum. Sed pharetra est sit amet ex semper gravida. Pellentesque quis quam ipsum. Integer vel orci convallis, vestibulum dui non, consectetur risus. Nunc aliquam urna sed vulputate pellentesque. Donec in pulvinar sem, non luctus ante. Maecenas a risus ut odio egestas suscipit. Aliquam a risus lectus. Integer placerat, nibh porttitor euismod vehicula, risus massa consequat dolor, nec consequat est neque in dolor. Nam sagittis felis eget ex luctus pharetra. Aliquam erat volutpat.
+
+</div> -->
+
+{% block content%}
+{% load static %} 
+
+
+<div class="about-section">
+    <h1>About Us</h1>
+    <p class='mt-3'>We are just a group of curious college students, attempting to implement all that we learnt during our college years, and build something 
+meaningful from it. Our goal was to learn as much as we can, about how a software project is built up from the ground, and how allocating the
+resources needed, working on a timeline, and dividing our work according to our specific proficiencies would practically look like.
+</p>
+  </div>
+  <div class='container'>
+  <h2 style="text-align:center" class="mt-5 mb-3 text-light">Follow Our Team</h2>
+  <div class="row">
+    <div class="columnabout">
+      <div class="cardabout test-box">
+        <img src="{% static 'images/about_nik.jpg' %}" alt="Nikshep" style="width:100%">
+        <div class="containerabout text-center">
+          <h2>Nikshep Shetty</h2>
+          <div class="row mb-2 mt-2 justify-content-center">
+            <!-- Twitter -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #55acee; border: 1px solid #55acee" href="https://twitter.com/nikshetty21" role="button"><i class="fab fa-twitter"></i></a>
+      
+            <!-- Instagram -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #cd486b; border: 1px solid #e055" href="https://www.instagram.com/niksshetty21/" role="button"><i class="fab fa-instagram"></i></a>
+      
+            <!-- Linkedin -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #0082ca; border: 1px solid #0082ca" href="https://www.linkedin.com/in/nikshep-shetty-494a07172/" role="button"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="columnabout">
+      <div class="cardabout test-box">
+        <img src="{% static 'images/about_vis.jpg' %}" alt="Vishal" style="width:100%">
+        <div class="containerabout text-center">
+          <h2>Vishal Surti</h2>
+          <div class="row mb-2 mt-2 justify-content-center">
+            <!-- Changes Here -->
+            <!-- Linkedin -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #0082ca; border: 1px solid #0082ca" href="https://www.linkedin.com/in/vishal-surti-7a798a199/" role="button"><i class="fab fa-linkedin-in"></i></a>
+
+            <!-- Instagram -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #cd486b; border: 1px solid #e055" href="https://www.instagram.com/vishal.surti99/" role="button"><i class="fab fa-instagram"></i></a>
+      
+            <!-- Twitter -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #55acee; border: 1px solid #55acee" href="https://twitter.com/VishalSurti4" role="button"><i class="fab fa-twitter"></i></a>
+      
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="columnabout">
+      <div class="cardabout test-box">
+        <img src="{% static 'images/about_vaibh.jpg' %}" alt="Vaibhav" style="width:100%">
+        <div class="containerabout text-center">
+          <h2>Vaibhav Warrier</h2>
+          <div class="row mb-2 mt-2 justify-content-center">
+            <!-- Youtube -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #FF0000; border: 1px solid #f167;" href="https://m.youtube.com/channel/UC7AWRywbotNIxQBHvQrscCQ/featured" role="button"><i class="fab fa-youtube"></i></a>
+            
+
+            <!-- Instagram -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #cd486b; border: 1px solid #e055" href="https://www.instagram.com/warvaibhav/" role="button"><i class="fab fa-instagram"></i></a>
+            
+      
+            {% comment %} <!-- Linkedin -->
+            <a class="btn btn-primary btn-floating m-1 mx-3" target="_blank" style="background-color: #0082ca; border: 1px solid #0082ca" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a> {% endcomment %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock content %}

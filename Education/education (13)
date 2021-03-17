@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1243.01" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">78</score>
+		</category>
+		<category>
+			<name>High school diploma or equivalent</name>
+			<description>or: GED, High School Equivalency Certificate</description>
+			<score scale="Percentage of Respondents">4</score>
+		</category>
+		<category>
+			<name>Post-secondary certificate</name>
+			<description>Awarded for training completed after high school (for example, in Personnel Services, Engineering-related Technologies, Vocational Home Economics, Construction Trades, Mechanics and Repairers, Precision Production Trades)</description>
+			<score scale="Percentage of Respondents">4</score>
+		</category>
+	</level_required>
+</education>

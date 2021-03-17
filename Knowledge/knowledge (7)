@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<knowledge code="15-1241.00" report="summary" display="short">
+	<element id="2.C.3.a" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/knowledge/2.C.3.a">
+		<name>Computers and Electronics</name>
+		<description>Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.</description>
+	</element>
+	<element id="2.C.9.a" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/knowledge/2.C.9.a">
+		<name>Telecommunications</name>
+		<description>Knowledge of transmission, broadcasting, switching, control, and operation of telecommunications systems.</description>
+	</element>
+	<element id="2.C.3.b" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/knowledge/2.C.3.b">
+		<name>Engineering and Technology</name>
+		<description>Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services.</description>
+	</element>
+	<element id="2.C.7.a" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/knowledge/2.C.7.a">
+		<name>English Language</name>
+		<description>Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.</description>
+	</element>
+	<element id="2.C.3.c" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/knowledge/2.C.3.c">
+		<name>Design</name>
+		<description>Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.</description>
+	</element>
+</knowledge>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-2011.00" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">63</score>
+		</category>
+		<category>
+			<name>Post-baccalaureate certificate</name>
+			<description>Awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree, but do not meet the requirements of academic degrees carrying the title of Master</description>
+			<score scale="Percentage of Respondents">25</score>
+		</category>
+		<category>
+			<name>Professional degree</name>
+			<description>Awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession</description>
+			<score scale="Percentage of Respondents">13</score>
+		</category>
+	</level_required>
+</education>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<interests code="15-1221.00" report="summary">
+	<high_point_code>IRC</high_point_code>
+	<element id="1.B.1.b" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/interests/1.B.1.b">
+		<name>Investigative</name>
+		<description>Investigative occupations frequently involve working with ideas, and require an extensive amount of thinking. These occupations can involve searching for facts and figuring out problems mentally.</description>
+	</element>
+	<element id="1.B.1.a" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/interests/1.B.1.a">
+		<name>Realistic</name>
+		<description>Realistic occupations frequently involve work activities that include practical, hands-on problems and solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of the occupations require working outside, and do not involve a lot of paperwork or working closely with others.</description>
+	</element>
+	<element id="1.B.1.f" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/interests/1.B.1.f">
+		<name>Conventional</name>
+		<description>Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas. Usually there is a clear line of authority to follow.</description>
+	</element>
+	<element id="1.B.1.c" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/interests/1.B.1.c">
+		<name>Artistic</name>
+		<description>Artistic occupations frequently involve working with forms, designs and patterns. They often require self-expression and the work can be done without following a clear set of rules.</description>
+	</element>
+</interests>

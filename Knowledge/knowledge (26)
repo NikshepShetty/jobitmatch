@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<knowledge code="15-1255.01" report="summary" display="short">
+	<element id="2.C.3.a" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/knowledge/2.C.3.a">
+		<name>Computers and Electronics</name>
+		<description>Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.</description>
+	</element>
+	<element id="2.C.3.c" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/knowledge/2.C.3.c">
+		<name>Design</name>
+		<description>Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.</description>
+	</element>
+	<element id="2.C.7.a" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/knowledge/2.C.7.a">
+		<name>English Language</name>
+		<description>Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.</description>
+	</element>
+	<element id="2.C.9.b" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/knowledge/2.C.9.b">
+		<name>Communications and Media</name>
+		<description>Knowledge of media production, communication, and dissemination techniques and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.</description>
+	</element>
+	<element id="2.C.4.e" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/knowledge/2.C.4.e">
+		<name>Psychology</name>
+		<description>Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders.</description>
+	</element>
+</knowledge>

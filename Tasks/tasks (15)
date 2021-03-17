@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1243.00" report="details" display="short">
+	<task id="16109" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16109">
+		<statement>Design databases to support business applications, ensuring system scalability, security, performance and reliability.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">89</score>
+	</task>
+	<task id="16114" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16114">
+		<statement>Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="16113" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16113">
+		<statement>Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="16108" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16108">
+		<statement>Develop data models for applications, metadata tables, views or related database structures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="16100" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16100">
+		<statement>Set up database clusters, backup, or recovery processes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="16112" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16112">
+		<statement>Create and enforce database development standards.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16115" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16115">
+		<statement>Develop and document database architectures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="16110" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16110">
+		<statement>Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="16105" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16105">
+		<statement>Document and communicate database schemas, using accepted notations.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">68</score>
+	</task>
+	<task id="16101" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tasks/16101">
+		<statement>Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+</tasks>

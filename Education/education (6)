@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1221.00" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+		</category>
+		<category>
+			<name>Doctoral degree</name>
+		</category>
+		<category>
+			<name>Master's degree</name>
+		</category>
+	</level_required>
+</education>

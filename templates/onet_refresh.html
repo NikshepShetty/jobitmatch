@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+
+{% block content%}
+{% load static %} 
+<form  action="{% url 'onet_refresh' %}" method="POST">
+    {% csrf_token %}
+    <button type="submit" name="onetbtn">Submit</button>
+</form>
+{% endblock content %}

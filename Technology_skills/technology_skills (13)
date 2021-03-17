@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1243.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tools_technology/43232304">
+		<title id="43232304">Data base management system software</title>
+		<example hot_technology="176">Amazon DynamoDB</example>
+		<example hot_technology="67">MongoDB</example>
+		<example hot_technology="49">NoSQL</example>
+		<example hot_technology="29">Oracle PL/SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tools_technology/43232310">
+		<title id="43232310">Metadata management software</title>
+		<example>CA Erwin Data Modeler</example>
+		<example>Oracle Warehouse Builder</example>
+		<example>SAS Data Integration Server</example>
+		<example>Talend Data Fabric</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="123">Bash</example>
+		<example hot_technology="48">Oracle Solaris</example>
+		<example hot_technology="46">Red Hat Enterprise Linux</example>
+		<example hot_technology="168">UNIX Shell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example hot_technology="162">Amazon Elastic Compute Cloud EC2</example>
+		<example hot_technology="105">Apache Hive</example>
+		<example hot_technology="22">MySQL</example>
+		<example hot_technology="35">Transact-SQL</example>
+	</category>
+</technology_skills>

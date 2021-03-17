@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<occupation code="15-1243.00">
+	<code>15-1243.00</code>
+	<title>Database Architects</title>
+	<tags bright_outlook="true" green="false" />
+	<description>Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.</description>
+	<sample_of_reported_job_titles>
+		<title>Data Officer</title>
+		<title>Database Analyst</title>
+		<title>Database Architect</title>
+		<title>Database Consultant</title>
+		<title>Database Developer</title>
+		<title>Database Programmer</title>
+		<title>Information Architect</title>
+		<title>Information Modeling Engineer Specialist</title>
+		<title>Information Technology Architect (IT Architect)</title>
+		<title>System Engineer</title>
+	</sample_of_reported_job_titles>
+	<also_see>
+		<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1243.01/">
+			<code>15-1243.01</code>
+			<title>Data Warehousing Specialists</title>
+			<tags bright_outlook="true" green="false" />
+		</occupation>
+	</also_see>
+	<updated partial="false" year="2021">
+		<resource_updated>
+			<title>Abilities</title>
+			<source>Analyst</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Alternate Titles</title>
+			<source>Multiple sources</source>
+			<year>2020</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Detailed Work Activities</title>
+			<source>Analyst</source>
+			<year>2020</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Education</title>
+			<source>Occupational Expert</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Interests</title>
+			<source>Analyst</source>
+			<year>2013</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Job Zone</title>
+			<source>Analyst</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Knowledge</title>
+			<source>Occupational Expert</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Sample of Reported Titles</title>
+			<source>Incumbent</source>
+			<year>2016</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Skills</title>
+			<source>Analyst</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Tasks</title>
+			<source>Analyst</source>
+			<year>2020</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Technology Skills &amp; Tools</title>
+			<source>Multiple sources</source>
+			<year>2021</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Work Activities</title>
+			<source>Occupational Expert</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Work Context</title>
+			<source>Occupational Expert</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Work Needs</title>
+		</resource_updated>
+		<resource_updated>
+			<title>Work Styles</title>
+			<source>Occupational Expert</source>
+			<year>2015</year>
+		</resource_updated>
+		<resource_updated>
+			<title>Work Values</title>
+			<source>Analyst</source>
+			<year>2012</year>
+		</resource_updated>
+	</updated>
+	<bright_outlook>
+		<description>This occupation is expected to grow rapidly.</description>
+		<category>Grow Rapidly</category>
+	</bright_outlook>
+	<summary_resources>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/tasks">
+			<title>Tasks</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/technology_skills">
+			<title>Technology Skills</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/tools_used">
+			<title>Tools Used</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/tools_technology">
+			<title>Tools &amp;amp; Technology</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/knowledge">
+			<title>Knowledge</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/skills">
+			<title>Skills</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/abilities">
+			<title>Abilities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/work_activities">
+			<title>Work Activities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/detailed_work_activities">
+			<title>Detailed Work Activities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/work_context">
+			<title>Work Context</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/job_zone">
+			<title>Job Zone</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/education">
+			<title>Education</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/interests">
+			<title>Interests</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/work_styles">
+			<title>Work Styles</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/work_values">
+			<title>Work Values</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/summary/additional_information">
+			<title>Sources of Additional Information</title>
+		</resource>
+	</summary_resources>
+	<details_resources>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/tasks">
+			<title>Tasks</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/technology_skills">
+			<title>Technology Skills</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/tools_used">
+			<title>Tools Used</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/tools_technology">
+			<title>Tools &amp;amp; Technology</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/knowledge">
+			<title>Knowledge</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/skills">
+			<title>Skills</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/abilities">
+			<title>Abilities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/work_activities">
+			<title>Work Activities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/detailed_work_activities">
+			<title>Detailed Work Activities</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/work_context">
+			<title>Work Context</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/job_zone">
+			<title>Job Zone</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/education">
+			<title>Education</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/interests">
+			<title>Interests</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/work_styles">
+			<title>Work Styles</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/work_values">
+			<title>Work Values</title>
+		</resource>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/details/additional_information">
+			<title>Sources of Additional Information</title>
+		</resource>
+	</details_resources>
+	<custom_resources>
+		<resource href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/custom/work_activities_outline">
+			<title>Work Activities Outline</title>
+		</resource>
+	</custom_resources>
+</occupation>

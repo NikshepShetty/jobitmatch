@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1211.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tools_technology/43232610">
+		<title id="43232610">Medical software</title>
+		<example hot_technology="84">Epic Systems</example>
+		<example>GE Healthcare Centricity EMR</example>
+		<example hot_technology="75">MEDITECH software</example>
+		<example>VISICU eICU Program</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example>Computer aided software engineering CASE tools</example>
+		<example hot_technology="148">Practical extraction and reporting language Perl</example>
+		<example hot_technology="15">Python</example>
+		<example hot_technology="71">R</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tools_technology/43232314">
+		<title id="43232314">Business intelligence and data analysis software</title>
+		<example>Qlik software</example>
+		<example hot_technology="64">Tableau</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example>SAS software</example>
+	</category>
+</technology_skills>

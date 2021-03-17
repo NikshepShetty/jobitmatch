@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1243.01" report="details" display="short">
+	<task id="16132" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16132">
+		<statement>Develop data warehouse process models, including sourcing, loading, transformation, and extraction.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="16121" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16121">
+		<statement>Verify the structure, accuracy, or quality of warehouse data.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="16124" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16124">
+		<statement>Map data between source systems, data warehouses, and data marts.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="16126" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16126">
+		<statement>Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="16128" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16128">
+		<statement>Design and implement warehouse database structures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="16127" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16127">
+		<statement>Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16118" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16118">
+		<statement>Provide or coordinate troubleshooting support for data warehouses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16120" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16120">
+		<statement>Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16133" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16133">
+		<statement>Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="16123" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1243.01/related/tasks/16123">
+		<statement>Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+</tasks>

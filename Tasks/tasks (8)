@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1231.00" report="details" display="short">
+	<task id="19004" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/19004">
+		<statement>Back up network data.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="18991" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18991">
+		<statement>Configure security settings or access permissions for groups or individuals.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="19003" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/19003">
+		<statement>Analyze and report computer network security breaches or attempted breaches.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="18995" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18995">
+		<statement>Identify the causes of networking problems, using diagnostic testing software and equipment.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="18993" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18993">
+		<statement>Document network support activities.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="18992" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18992">
+		<statement>Configure wide area network (WAN) or local area network (LAN) routers or related equipment.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="18997" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18997">
+		<statement>Install network software, including security or firewall software.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="19002" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/19002">
+		<statement>Troubleshoot network or connectivity problems for users or user groups.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="19010" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/19010">
+		<statement>Provide telephone support related to networking or connectivity issues.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="18994" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tasks/18994">
+		<statement>Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+</tasks>

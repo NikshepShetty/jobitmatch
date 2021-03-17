@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1299.01" report="details" display="short">
+	<task id="14734" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14734">
+		<statement>Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">95</score>
+	</task>
+	<task id="14741" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14741">
+		<statement>Identify or document backup or recovery plans.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">91</score>
+	</task>
+	<task id="14731" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14731">
+		<statement>Back up or modify applications and related data to provide for disaster recovery.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">90</score>
+	</task>
+	<task id="14758" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14758">
+		<statement>Correct testing-identified problems, or recommend actions for their resolution.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="14748" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14748">
+		<statement>Identify, standardize, and communicate levels of access and security.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="14732" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14732">
+		<statement>Determine sources of Web page or server problems, and take action to correct such problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="14740" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14740">
+		<statement>Implement updates, upgrades, and patches in a timely manner to limit loss of service.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="14735" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14735">
+		<statement>Implement Web site security measures, such as firewalls or message encryption.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="14737" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14737">
+		<statement>Collaborate with development teams to discuss, analyze, or resolve usability issues.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="14750" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.01/related/tasks/14750">
+		<statement>Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+</tasks>

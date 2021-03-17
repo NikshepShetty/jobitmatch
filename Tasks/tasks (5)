@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2051.02" report="details" display="short">
+	<task id="16281" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16281">
+		<statement>Design and validate clinical databases, including designing or testing logic checks.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">88</score>
+	</task>
+	<task id="16284" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16284">
+		<statement>Process clinical data, including receipt, entry, verification, or filing of information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="16280" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16280">
+		<statement>Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="16285" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16285">
+		<statement>Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="16279" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16279">
+		<statement>Monitor work productivity or quality to ensure compliance with standard operating procedures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="16268" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16268">
+		<statement>Prepare appropriate formatting to data sets as requested.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="16286" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16286">
+		<statement>Design forms for receiving, processing, or tracking data.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16277" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16277">
+		<statement>Prepare data analysis listings and activity, performance, or progress reports.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16282" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16282">
+		<statement>Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+	<task id="16278" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tasks/16278">
+		<statement>Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">68</score>
+	</task>
+</tasks>

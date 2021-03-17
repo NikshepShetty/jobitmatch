@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<knowledge code="15-2051.02" report="summary" display="short">
+	<element id="2.C.7.a" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/knowledge/2.C.7.a">
+		<name>English Language</name>
+		<description>Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.</description>
+	</element>
+	<element id="2.C.3.a" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/knowledge/2.C.3.a">
+		<name>Computers and Electronics</name>
+		<description>Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.</description>
+	</element>
+	<element id="2.C.1.e" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/knowledge/2.C.1.e">
+		<name>Customer and Personal Service</name>
+		<description>Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.</description>
+	</element>
+	<element id="2.C.4.a" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/knowledge/2.C.4.a">
+		<name>Mathematics</name>
+		<description>Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.</description>
+	</element>
+	<element id="2.C.5.a" related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/knowledge/2.C.5.a">
+		<name>Medicine and Dentistry</name>
+		<description>Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures.</description>
+	</element>
+</knowledge>

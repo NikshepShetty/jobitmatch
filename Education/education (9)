@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1251.00" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">88</score>
+		</category>
+		<category>
+			<name>Associate's degree</name>
+			<score scale="Percentage of Respondents">9</score>
+		</category>
+		<category>
+			<name>Some college, no degree</name>
+			<score scale="Percentage of Respondents">3</score>
+		</category>
+	</level_required>
+</education>

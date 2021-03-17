@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skills code="15-1255.01" report="summary" display="short">
+	<element id="2.B.3.e" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/skills/2.B.3.e">
+		<name>Programming</name>
+		<description>Writing computer programs for various purposes.</description>
+	</element>
+	<element id="2.A.1.b" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/skills/2.A.1.b">
+		<name>Active Listening</name>
+		<description>Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.</description>
+	</element>
+	<element id="2.B.2.i" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/skills/2.B.2.i">
+		<name>Complex Problem Solving</name>
+		<description>Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.</description>
+	</element>
+	<element id="2.A.2.a" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/skills/2.A.2.a">
+		<name>Critical Thinking</name>
+		<description>Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</description>
+	</element>
+	<element id="2.A.1.a" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/skills/2.A.1.a">
+		<name>Reading Comprehension</name>
+		<description>Understanding written sentences and paragraphs in work related documents.</description>
+	</element>
+</skills>

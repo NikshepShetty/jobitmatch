@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1242.00" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">77</score>
+		</category>
+		<category>
+			<name>Professional degree</name>
+			<description>Awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession</description>
+			<score scale="Percentage of Respondents">11</score>
+		</category>
+		<category>
+			<name>Associate's degree</name>
+			<score scale="Percentage of Respondents">7</score>
+		</category>
+	</level_required>
+</education>

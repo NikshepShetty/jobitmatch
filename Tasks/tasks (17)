@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1211.01" report="details" display="short">
+	<task id="18090" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18090">
+		<statement>Translate nursing practice information between nurses and systems engineers, analysts, or designers using object-oriented models or other techniques.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">87</score>
+	</task>
+	<task id="18096" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18096">
+		<statement>Apply knowledge of computer science, information science, nursing, and informatics theory to nursing practice, education, administration, or research, in collaboration with other health informatics specialists.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="18088" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18088">
+		<statement>Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="18094" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18094">
+		<statement>Analyze and interpret patient, nursing, or information systems data to improve nursing services.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="18093" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18093">
+		<statement>Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="18101" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18101">
+		<statement>Identify, collect, record, or analyze data that are relevant to the nursing care of patients.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="18092" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18092">
+		<statement>Use informatics science to design or implement health information technology applications to resolve clinical or health care administrative problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="18103" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18103">
+		<statement>Provide consultation to nurses regarding hardware or software configuration.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="18095" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18095">
+		<statement>Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="18100" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1211.01/related/tasks/18100">
+		<statement>Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+</tasks>

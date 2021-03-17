@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1241.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.01/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="6">Linux</example>
+		<example hot_technology="172">Microsoft Windows Server</example>
+		<example hot_technology="146">Shell script</example>
+		<example hot_technology="8">UNIX</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.01/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.01/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example hot_technology="54">Data entry software</example>
+		<example hot_technology="12">Microsoft SQL Server</example>
+		<example>SiteMaster SiteSmart</example>
+		<example hot_technology="3">Structured query language SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.01/related/tools_technology/43233501">
+		<title id="43233501">Electronic mail software</title>
+		<example hot_technology="40">IBM Notes</example>
+		<example hot_technology="56">Microsoft Exchange</example>
+		<example hot_technology="21">Microsoft Outlook</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.01/related/tools_technology/43232801">
+		<title id="43232801">Network monitoring software</title>
+		<example>Cisco Systems Cisco Traffic Analyzer</example>
+		<example hot_technology="88">Nagios</example>
+		<example hot_technology="94">Wireshark</example>
+	</category>
+</technology_skills>

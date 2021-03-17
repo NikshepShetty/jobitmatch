@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1255.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tools_technology/43232102">
+		<title id="43232102">Graphics or photo imaging software</title>
+		<example>Adobe Systems Adobe Flash</example>
+		<example hot_technology="57">Adobe Systems Adobe Illustrator</example>
+		<example hot_technology="18">Adobe Systems Adobe Photoshop</example>
+		<example hot_technology="14">Microsoft Visio</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example>Blackboard software</example>
+		<example hot_technology="12">Microsoft SQL Server</example>
+		<example hot_technology="3">Structured query language SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example>Adobe Systems Adobe ActionScript</example>
+		<example>C</example>
+		<example>Microsoft High Level Shader Language HLSL</example>
+		<example>Simple DirectMedia Layer SDL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="90">Advanced business application programming ABAP</example>
+		<example hot_technology="68">Objective C</example>
+		<example hot_technology="4">Oracle Java</example>
+		<example hot_technology="148">Practical extraction and reporting language Perl</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tools_technology/43232408">
+		<title id="43232408">Web platform development software</title>
+		<example hot_technology="20">Hypertext markup language HTML</example>
+		<example hot_technology="5">JavaScript</example>
+		<example hot_technology="23">PHP: Hypertext Preprocessor</example>
+		<example hot_technology="76">Ruby on Rails</example>
+	</category>
+</technology_skills>

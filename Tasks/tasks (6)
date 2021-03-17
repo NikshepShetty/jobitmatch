@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1221.00" report="details" display="short">
+	<task id="14623" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14623">
+		<statement>Analyze problems to develop solutions involving computer hardware and software.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="14626" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14626">
+		<statement>Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="14624" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14624">
+		<statement>Assign or schedule tasks to meet work priorities and goals.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="14628" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14628">
+		<statement>Meet with managers, vendors, and others to solicit cooperation and resolve problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="14633" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14633">
+		<statement>Design computers and the software that runs them.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="14629" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14629">
+		<statement>Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">65</score>
+	</task>
+	<task id="14625" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14625">
+		<statement>Evaluate project plans and proposals to assess feasibility issues.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">62</score>
+	</task>
+	<task id="14635" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14635">
+		<statement>Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">59</score>
+	</task>
+	<task id="14627" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14627">
+		<statement>Consult with users, management, vendors, and technicians to determine computing needs and system requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">59</score>
+	</task>
+	<task id="14630" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tasks/14630">
+		<statement>Develop and interpret organizational goals, policies, and procedures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">55</score>
+	</task>
+</tasks>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2051.01" report="details" display="short">
+	<task id="16150" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16150">
+		<statement>Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="16149" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16149">
+		<statement>Synthesize current business intelligence or trend data to support recommendations for action.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="16135" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16135">
+		<statement>Maintain library of model documents, templates, or other reusable knowledge assets.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16144" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16144">
+		<statement>Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16140" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16140">
+		<statement>Manage timely flow of business intelligence information to users.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16146" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16146">
+		<statement>Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="16148" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16148">
+		<statement>Analyze competitive market strategies through analysis of related product, market, or share trends.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="16139" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16139">
+		<statement>Maintain or update business intelligence tools, databases, dashboards, systems, or methods.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="16136" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16136">
+		<statement>Identify or monitor current and potential customers, using business intelligence tools.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="16143" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/tasks/16143">
+		<statement>Disseminate information regarding tools, reports, or metadata enhancements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">63</score>
+	</task>
+</tasks>

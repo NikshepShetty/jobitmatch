@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1232.00" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+		</category>
+		<category>
+			<name>High school diploma or equivalent</name>
+			<description>or: GED, High School Equivalency Certificate</description>
+		</category>
+		<category>
+			<name>Some college, no degree</name>
+		</category>
+	</level_required>
+</education>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1254.00" report="details" display="short">
+	<task id="14707" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14707">
+		<statement>Write supporting code for Web applications or Web sites.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">90</score>
+	</task>
+	<task id="14694" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14694">
+		<statement>Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="14698" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14698">
+		<statement>Back up files from Web sites to local directories for instant recovery in case of problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="14711" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14711">
+		<statement>Select programming languages, design tools, or applications.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="14700" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14700">
+		<statement>Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="14704" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14704">
+		<statement>Develop databases that support Web applications and Web sites.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14710" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14710">
+		<statement>Perform Web site tests according to planned schedules, or after any Web site or product revision.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14695" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14695">
+		<statement>Perform or direct Web site updates.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="14701" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14701">
+		<statement>Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="14702" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1254.00/related/tasks/14702">
+		<statement>Analyze user needs to determine technical requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+</tasks>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1241.01" report="summary">
+	<level_required>
+		<category>
+			<name>Post-secondary certificate</name>
+			<description>Awarded for training completed after high school (for example, in Personnel Services, Engineering-related Technologies, Vocational Home Economics, Construction Trades, Mechanics and Repairers, Precision Production Trades)</description>
+			<score scale="Percentage of Respondents">24</score>
+		</category>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">19</score>
+		</category>
+		<category>
+			<name>Some college, no degree</name>
+			<score scale="Percentage of Respondents">14</score>
+		</category>
+	</level_required>
+</education>

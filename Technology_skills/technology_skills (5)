@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-2051.02" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example>Clinical trial management software</example>
+		<example hot_technology="28">Microsoft Access</example>
+		<example>Phase Forward Clintrial</example>
+		<example>Relational database software</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example>Oracle Remote Data Capture</example>
+		<example hot_technology="24">SAS</example>
+		<example>SAS JMP</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tools_technology/43232610">
+		<title id="43232610">Medical software</title>
+		<example>Allscripts</example>
+		<example hot_technology="84">Epic Systems</example>
+		<example hot_technology="75">MEDITECH software</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2051.02/related/tools_technology/43232305">
+		<title id="43232305">Data base reporting software</title>
+		<example>Oracle SQL Loader</example>
+		<example>SAP BusinessObjects Crystal Reports</example>
+		<example hot_technology="51">SAP Crystal Reports</example>
+	</category>
+</technology_skills>

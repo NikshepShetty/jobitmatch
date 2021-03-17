@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2041.01" report="details" display="short">
+	<task id="16254" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16254">
+		<statement>Draw conclusions or make predictions, based on data summaries or statistical analyses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">95</score>
+	</task>
+	<task id="16258" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16258">
+		<statement>Design research studies in collaboration with physicians, life scientists, or other professionals.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">93</score>
+	</task>
+	<task id="16265" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16265">
+		<statement>Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">92</score>
+	</task>
+	<task id="16263" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16263">
+		<statement>Provide biostatistical consultation to clients or colleagues.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">91</score>
+	</task>
+	<task id="16241" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16241">
+		<statement>Write research proposals or grant applications for submission to external bodies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">88</score>
+	</task>
+	<task id="16245" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16245">
+		<statement>Prepare articles for publication or presentation at professional conferences.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">87</score>
+	</task>
+	<task id="16246" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16246">
+		<statement>Calculate sample size requirements for clinical studies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="16250" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16250">
+		<statement>Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="16253" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16253">
+		<statement>Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="16262" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.01/related/tasks/16262">
+		<statement>Review clinical or other medical research protocols and recommend appropriate statistical analyses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+</tasks>

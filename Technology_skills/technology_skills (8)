@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1231.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tools_technology/43232801">
+		<title id="43232801">Network monitoring software</title>
+		<example>Dartware InterMapper</example>
+		<example hot_technology="88">Nagios</example>
+		<example>WildPackets OmniPeek Network Analyzer</example>
+		<example hot_technology="94">Wireshark</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="123">Bash</example>
+		<example hot_technology="172">Microsoft Windows Server</example>
+		<example hot_technology="46">Red Hat Enterprise Linux</example>
+		<example hot_technology="168">UNIX Shell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tools_technology/43233205">
+		<title id="43233205">Transaction security and virus protection software</title>
+		<example>Encryption software</example>
+		<example>McAfee</example>
+		<example hot_technology="70">Symantec</example>
+		<example>Symantec Norton Antivirus</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1231.00/related/tools_technology/43232401">
+		<title id="43232401">Configuration management software</title>
+		<example>Automated installation software</example>
+		<example>EMC Ionix Network Configuration Manager</example>
+		<example>Patch and update management software</example>
+		<example hot_technology="170">VMWare</example>
+	</category>
+</technology_skills>

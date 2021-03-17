@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-2021.00" report="summary">
+	<level_required>
+		<category>
+			<name>Master's degree</name>
+			<score scale="Percentage of Respondents">38</score>
+		</category>
+		<category>
+			<name>Doctoral degree</name>
+			<score scale="Percentage of Respondents">33</score>
+		</category>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">21</score>
+		</category>
+	</level_required>
+</education>

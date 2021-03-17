@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1232.00" report="details" display="short">
+	<task id="1282" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1282">
+		<statement>Answer user inquiries regarding computer software or hardware operation to resolve problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">90</score>
+	</task>
+	<task id="1285" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1285">
+		<statement>Oversee the daily performance of computer systems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="1288" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1288">
+		<statement>Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="1286" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1286">
+		<statement>Set up equipment for employee use, performing or ensuring proper installation of cables, operating systems, or appropriate software.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="1290" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1290">
+		<statement>Develop training materials and procedures, or train users in the proper use of hardware or software.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="1291" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1291">
+		<statement>Refer major hardware or software problems or defective products to vendors or technicians for service.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="1283" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1283">
+		<statement>Enter commands and observe system functioning to verify correct operations and detect errors.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="1287" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1287">
+		<statement>Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="1284" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1284">
+		<statement>Install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="1292" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1232.00/related/tasks/1292">
+		<statement>Prepare evaluations of software or hardware, and recommend improvements or upgrades.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">62</score>
+	</task>
+</tasks>

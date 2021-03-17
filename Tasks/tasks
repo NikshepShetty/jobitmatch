@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2011.00" report="details" display="short">
+	<task id="3500" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3500">
+		<statement>Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">92</score>
+	</task>
+	<task id="3502" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3502">
+		<statement>Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">90</score>
+	</task>
+	<task id="3504" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3504">
+		<statement>Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="3506" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3506">
+		<statement>Provide advice to clients on a contract basis, working as a consultant.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="3501" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3501">
+		<statement>Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="3508" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3508">
+		<statement>Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="20951" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/20951">
+		<statement>Negotiate terms and conditions of reinsurance with other companies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="3503" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3503">
+		<statement>Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="3512" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3512">
+		<statement>Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">64</score>
+	</task>
+	<task id="3505" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2011.00/related/tasks/3505">
+		<statement>Testify before public agencies on proposed legislation affecting businesses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">62</score>
+	</task>
+</tasks>

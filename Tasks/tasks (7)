@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1241.00" report="details" display="short">
+	<task id="18971" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18971">
+		<statement>Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">88</score>
+	</task>
+	<task id="18968" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18968">
+		<statement>Develop disaster recovery plans.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="18979" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18979">
+		<statement>Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="18961" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18961">
+		<statement>Coordinate network or design activities with designers of associated networks.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="18967" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18967">
+		<statement>Develop conceptual, logical, or physical network designs.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="18965" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18965">
+		<statement>Develop and implement solutions for network problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="18964" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18964">
+		<statement>Determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="18958" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18958">
+		<statement>Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="18987" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18987">
+		<statement>Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="18975" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tasks/18975">
+		<statement>Evaluate network designs to determine whether customer requirements are met efficiently and effectively.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+</tasks>

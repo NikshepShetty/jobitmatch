@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2099.01" report="details" display="short">
+	<task id="17709" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17709">
+		<statement>Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="17715" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17715">
+		<statement>Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="17716" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17716">
+		<statement>Maintain awareness of new and emerging computational methods and technologies.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="17721" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17721">
+		<statement>Conduct quality analyses of data inputs and resulting analyses or predictions.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="17707" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17707">
+		<statement>Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+	<task id="17706" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17706">
+		<statement>Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+	<task id="17710" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17710">
+		<statement>Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="17717" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17717">
+		<statement>Participate in the preparation of reports or scientific publications.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="17720" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17720">
+		<statement>Write computer programs or scripts to be used in querying databases.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">63</score>
+	</task>
+	<task id="17714" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tasks/17714">
+		<statement>Document all database changes, modifications, or problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">62</score>
+	</task>
+</tasks>

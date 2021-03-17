@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1243.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tools_technology/43232304">
+		<title id="43232304">Data base management system software</title>
+		<example hot_technology="176">Amazon DynamoDB</example>
+		<example hot_technology="143">Elasticsearch</example>
+		<example hot_technology="67">MongoDB</example>
+		<example hot_technology="49">NoSQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example hot_technology="105">Apache Hive</example>
+		<example>Blackboard software</example>
+		<example hot_technology="61">Oracle JDBC</example>
+		<example hot_technology="35">Transact-SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tools_technology/43232408">
+		<title id="43232408">Web platform development software</title>
+		<example hot_technology="121">Backbone.js</example>
+		<example hot_technology="104">Google AngularJS</example>
+		<example hot_technology="138">Microsoft ASP.NET Core MVC</example>
+		<example hot_technology="158">React</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example hot_technology="134">Apache Ant</example>
+		<example hot_technology="79">Common business oriented language COBOL</example>
+		<example hot_technology="173">Go</example>
+		<example hot_technology="112">Microsoft PowerShell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1243.00/related/tools_technology/43232310">
+		<title id="43232310">Metadata management software</title>
+		<example>CA Erwin Data Modeler</example>
+		<example>IBM Rational System Architect</example>
+		<example>SAP PowerDesigner</example>
+		<example>Talend Data Fabric</example>
+	</category>
+</technology_skills>

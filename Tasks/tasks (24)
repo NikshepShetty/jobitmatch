@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2041.00" report="details" display="short">
+	<task id="8956" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8956">
+		<statement>Analyze and interpret statistical data to identify significant differences in relationships among sources of information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">89</score>
+	</task>
+	<task id="8955" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8955">
+		<statement>Identify relationships and trends in data, as well as any factors that could affect the results of research.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="21100" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/21100">
+		<statement>Determine whether statistical methods are appropriate, based on user needs or research questions of interest.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="8957" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8957">
+		<statement>Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="20194" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/20194">
+		<statement>Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="8953" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8953">
+		<statement>Report results of statistical analyses, including information in the form of graphs, charts, and tables.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="8961" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8961">
+		<statement>Design research projects that apply valid scientific techniques and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="8954" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8954">
+		<statement>Process large amounts of data for statistical modeling and graphic analysis, using computers.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="8965" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8965">
+		<statement>Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="8958" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tasks/8958">
+		<statement>Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+</tasks>

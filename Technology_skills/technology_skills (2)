@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-2099.01" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example>Data visualization software</example>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example hot_technology="24">SAS</example>
+		<example hot_technology="50">The MathWorks MATLAB</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="4">Oracle Java</example>
+		<example hot_technology="148">Practical extraction and reporting language Perl</example>
+		<example hot_technology="15">Python</example>
+		<example hot_technology="71">R</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example hot_technology="28">Microsoft Access</example>
+		<example hot_technology="22">MySQL</example>
+		<example hot_technology="165">Oracle software</example>
+		<example hot_technology="3">Structured query language SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2099.01/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example>C</example>
+		<example hot_technology="114">Ruby</example>
+	</category>
+</technology_skills>

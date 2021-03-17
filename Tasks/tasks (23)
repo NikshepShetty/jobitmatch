@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1253.00" report="details" display="short">
+	<task id="14638" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14638">
+		<statement>Design test plans, scenarios, scripts, or procedures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">91</score>
+	</task>
+	<task id="14641" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14641">
+		<statement>Document software defects, using a bug tracking system, and report defects to software developers.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="14642" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14642">
+		<statement>Identify, analyze, and document problems with program function, output, online screen, or content.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="14640" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14640">
+		<statement>Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="14646" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14646">
+		<statement>Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="14648" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14648">
+		<statement>Document test procedures to ensure replicability and compliance with standards.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="14645" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14645">
+		<statement>Plan test schedules or strategies in accordance with project scope or delivery dates.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="14655" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14655">
+		<statement>Conduct software compatibility tests with programs, hardware, operating systems, or network environments.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14639" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14639">
+		<statement>Test system modifications to prepare for implementation.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="14643" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1253.00/related/tasks/14643">
+		<statement>Monitor bug resolution efforts and track successes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+</tasks>

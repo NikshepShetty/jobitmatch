@@ -1,0 +1,227 @@
+{% extends 'base.html' %}
+
+
+{% block content%}
+{% load static %} 
+<script src="{% static 'js/hol.js' %}"></script>
+
+<div class='container'>
+    <div class='test-box mt-5 mb-3'>
+    <div class="row justify-content-center mb-2 pt-4"><h2>Test Results</h2></div>
+
+<div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+    {% for job_name, job_percent in jobs.items %}
+
+ 
+  <div class="card">
+
+    
+    <div class="card-header" role="tab" id="heading{{job_name|cut:' '}}">
+    <div class='row justify-content-center'>
+      <a data-toggle="collapse" data-parent="#accordionEx" href="#collapse{{job_name|cut:' '}}" aria-expanded="true"
+        aria-controls="collapse{{job_name|cut:' '}}">
+        <h5 class="mb-0">
+          {{ job_name }} <i class="fas fa-angle-down rotate-icon"></i>
+        </h5>
+      </a>
+    </div>
+    <div class="row mt-1">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-6">
+            <div class="progress-outer">
+                <div class="progress">
+                    <div class="progress-bar progress-bar-info progress-bar-striped active" style="width:{{job_percent}}%; box-shadow:-1px 10px 10px rgba(91, 192, 222, 0.7);"></div>
+                    <div class="progress-value">{{job_percent}}</div>
+                </div>
+            </div>
+    </div>
+    <div class="col-sm-3"></div>
+    </div>
+    </div>
+
+    <div id="collapse{{job_name|cut:' '}}" class="collapse" role="tabpanel" aria-labelledby="heading{{job_name|cut:' '}}"
+      data-parent="#accordionEx">
+      <div class="card-body">
+
+       <div class="row h5 justify-content-center"> About {{job_name}} </div>
+      <div class="row mt-2 ml-2 mb-1 font-weight-bold"> Job Description </div>
+      <ul>
+      {% with desc=info_dict|keyvalue:job_name  %}
+        {% with desc=desc.1|split_dot  %}
+          {% for line in desc %}
+          {% if forloop.counter != desc|length %}
+            <li>{{line}}.</li>
+          {% endif %}
+          {% endfor %}
+        {% endwith %}
+      {% endwith %}
+      </ul>
+
+
+
+      <div class="row mt-4 ml-2 mb-1 font-weight-bold"> Technology Skills </div>
+      
+      {% with tech_skills=info_dict|keyvalue:job_name  %}
+        {% with tech_skills=tech_skills.2|add_space_after_comma  %}
+            <div class='row ml-2'>{{tech_skills}}.</div>
+        {% endwith %}
+      {% endwith %}
+
+
+      <div class="row mt-4 ml-2 mb-1 font-weight-bold"> Example of Job Titles </div>
+      
+      {% with job_title=info_dict|keyvalue:job_name  %}
+        {% with job_title=job_title.0|add_space_after_comma  %}
+            <div class='row ml-2'>{{job_title}}.</div>
+        {% endwith %}
+      {% endwith %}
+
+
+
+
+      <div class="row h5 justify-content-center mt-5"> Courses for you </div>
+      {% for software in lacking_skills|keyvalue:job_name %}
+        <div class="row mt-2 ml-2 mb-1 font-weight-bold"> {{software|title}} </div>
+        <ul>
+        {%for course in course_dict|keyvalue:software %}
+        {% with course=course|split %}
+          <li><a target="_blank" href='{{course.5}}'>{{course.0|underscore_space}}</a></li>
+          <div class="row info ml-0p03 mb-2 font-weight-light">Offered by: {{course.2|underscore_space}}, Type: {{course.1|underscore_space|title}}, Rating: {{course.3|underscore_space}}, Difficulty: {{course.4|underscore_space}}</div>
+        {% endwith %}
+        {% endfor %}
+        </ul>
+      {% endfor %}
+
+     
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+    {% endfor %}
+    </div>
+
+
+<!-- here -->
+<div class="row justify-content-center mt-5"><h3>Your Holland Score</h3></div>
+<div class='row mt-4 ml-1 mr-1'>
+    <!-- realistic -->
+    <div class='col-sm-4'>
+    <div class="row mb-4">
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Realistic</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.0}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-primary"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-primary"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.0}}<sup class="small">%</sup></div>
+      </div>
+      </div>
+    </div>
+    <!-- investigative -->
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Investigative</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.1}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-success"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-success"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.1}}<sup class="small">%</sup></div>
+      </div>
+      </div>
+    </div>
+    </div>
+    </div>
+    <!-- artistic -->
+    <div class='col-sm-4'>
+    <div class="row mb-4">
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Artistic</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.2}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-warning"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-warning"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.2}}<sup class="small">%</sup></div>
+      </div>
+      </div>
+    </div>
+    <!-- social -->
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Social</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.3}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-danger"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-danger"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.3}}<sup class="small">%</sup></div>
+      </div>
+      </div>
+    </div>
+    </div>
+    </div>
+    <!-- enterprising -->
+    <div class='col-sm-4'>
+    <div class="row mb-4">
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Enterprising</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.4}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-info"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-info"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.4}}<sup class="small">%</sup></div>
+      </div>
+    </div>
+    </div>
+    <!-- conventional -->
+    <div class="col">
+    <div class="row mb-2 justify-content-center font-weight-bold">Conventional</div>
+    <div class="progresshol mx-auto" data-value='{{Hscore.5}}'>
+      <span class="progress-lefthol">
+                    <span class="progress-barhol border-dark"></span>
+      </span>
+      <span class="progress-righthol">
+                    <span class="progress-barhol border-dark"></span>
+      </span>
+      <div class="progress-valuehol w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+        <div class="h4 font-weight-bold">{{Hscore.5}}<sup class="small">%</sup></div>
+      </div>
+      </div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    </div>
+
+</div>
+
+
+<p class='text-center mt-5'><a href="https://services.onetcenter.org/" title="This site incorporates information from O*NET Web Services. Click to learn more."><img src="https://www.onetcenter.org/image/link/onet-in-it.svg" style="width: 130px; height: 60px; border: none" alt="O*NET in-it"></a></p>
+<p class='text-center text-light'>This site incorporates information from <a href="https://services.onetcenter.org/">O*NET Web Services</a> by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA). O*NET&reg; is a trademark of USDOL/ETA.</p>
+
+
+
+
+
+{% endblock content %}

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<occupations family="15-0000" sort="name" start="1" end="38" total="38">
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2011.00/">
+		<code>15-2011.00</code>
+		<title>Actuaries</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2099.01/">
+		<code>15-2099.01</code>
+		<title>Bioinformatics Technicians</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2041.01/">
+		<code>15-2041.01</code>
+		<title>Biostatisticians</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2051.01/">
+		<code>15-2051.01</code>
+		<title>Business Intelligence Analysts</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2051.02/">
+		<code>15-2051.02</code>
+		<title>Clinical Data Managers</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1221.00/">
+		<code>15-1221.00</code>
+		<title>Computer and Information Research Scientists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1241.00/">
+		<code>15-1241.00</code>
+		<title>Computer Network Architects</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1231.00/">
+		<code>15-1231.00</code>
+		<title>Computer Network Support Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1251.00/">
+		<code>15-1251.00</code>
+		<title>Computer Programmers</title>
+		<tags bright_outlook="false" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1211.00/">
+		<code>15-1211.00</code>
+		<title>Computer Systems Analysts</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1299.08/">
+		<code>15-1299.08</code>
+		<title>Computer Systems Engineers/Architects</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1232.00/">
+		<code>15-1232.00</code>
+		<title>Computer User Support Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1243.01/">
+		<code>15-1243.01</code>
+		<title>Data Warehousing Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1242.00/">
+		<code>15-1242.00</code>
+		<title>Database Administrators</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1243.00/">
+		<code>15-1243.00</code>
+		<title>Database Architects</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1299.03/">
+		<code>15-1299.03</code>
+		<title>Document Management Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1211.01/">
+		<code>15-1211.01</code>
+		<title>Health Informatics Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1212.00/">
+		<code>15-1212.00</code>
+		<title>Information Security Analysts</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1299.09/">
+		<code>15-1299.09</code>
+		<title>Information Technology Project Managers</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2021.00/">
+		<code>15-2021.00</code>
+		<title>Mathematicians</title>
+		<tags bright_outlook="false" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1244.00/">
+		<code>15-1244.00</code>
+		<title>Network and Computer Systems Administrators</title>
+		<tags bright_outlook="false" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2031.00/">
+		<code>15-2031.00</code>
+		<title>Operations Research Analysts</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1253.00/">
+		<code>15-1253.00</code>
+		<title>Software Quality Assurance Analysts and Testers</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-2041.00/">
+		<code>15-2041.00</code>
+		<title>Statisticians</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1241.01/">
+		<code>15-1241.01</code>
+		<title>Telecommunications Engineering Specialists</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1255.01/">
+		<code>15-1255.01</code>
+		<title>Video Game Designers</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1299.01/">
+		<code>15-1299.01</code>
+		<title>Web Administrators</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+	<occupation href="https://services.onetcenter.org/ws/online/occupations/15-1254.00/">
+		<code>15-1254.00</code>
+		<title>Web Developers</title>
+		<tags bright_outlook="true" green="false" />
+		<job_family code="15-0000">Computer and Mathematical</job_family>
+	</occupation>
+</occupations>

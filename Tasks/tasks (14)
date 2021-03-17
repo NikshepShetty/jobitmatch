@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1242.00" report="details" display="short">
+	<task id="1300" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1300">
+		<statement>Test programs or databases, correct errors, and make necessary modifications.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="1301" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1301">
+		<statement>Plan, coordinate and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="1299" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1299">
+		<statement>Modify existing databases and database management systems or direct programmers and analysts to make changes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="1305" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1305">
+		<statement>Specify users and user access levels for each segment of database.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="1313" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1313">
+		<statement>Write and code logical and physical database descriptions and specify identifiers of database to management system or direct others in coding descriptions.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="1298" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1298">
+		<statement>Develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="1309" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1309">
+		<statement>Review procedures in database management system manuals for making changes to database.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">62</score>
+	</task>
+	<task id="1315" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1315">
+		<statement>Revise company definition of data as defined in data dictionary.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">61</score>
+	</task>
+	<task id="1303" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1303">
+		<statement>Train users and answer questions.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">60</score>
+	</task>
+	<task id="1314" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1242.00/related/tasks/1314">
+		<statement>Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">59</score>
+	</task>
+</tasks>

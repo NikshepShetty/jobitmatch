@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1255.01" report="details" display="short">
+	<task id="16199" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16199">
+		<statement>Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">93</score>
+	</task>
+	<task id="16198" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16198">
+		<statement>Provide feedback to designers and other colleagues regarding game design features.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="16217" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16217">
+		<statement>Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">83</score>
+	</task>
+	<task id="16208" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16208">
+		<statement>Devise missions, challenges, or puzzles to be encountered in game play.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="16207" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16207">
+		<statement>Guide design discussions between development teams.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="16209" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16209">
+		<statement>Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="16212" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16212">
+		<statement>Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="16204" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16204">
+		<statement>Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16214" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16214">
+		<statement>Conduct regular design reviews throughout the game development process.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="16201" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/tasks/16201">
+		<statement>Solicit, obtain, and integrate feedback from design and technical staff into original game design.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+</tasks>

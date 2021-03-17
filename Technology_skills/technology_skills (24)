@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-2041.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example hot_technology="89">Minitab</example>
+		<example hot_technology="24">SAS</example>
+		<example hot_technology="50">The MathWorks MATLAB</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="10">C++</example>
+		<example hot_technology="15">Python</example>
+		<example hot_technology="71">R</example>
+		<example>Sun Microsystems Java</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tools_technology/43232306">
+		<title id="43232306">Data base user interface and query software</title>
+		<example hot_technology="140">Amazon Redshift</example>
+		<example hot_technology="54">Data entry software</example>
+		<example hot_technology="12">Microsoft SQL Server</example>
+		<example hot_technology="3">Structured query language SQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2041.00/related/tools_technology/43232307">
+		<title id="43232307">Data mining software</title>
+		<example>Angoss KnowledgeSEEKER</example>
+		<example>NCR Teradata Warehouse Miner</example>
+		<example>SAS Enterprise Miner</example>
+	</category>
+</technology_skills>

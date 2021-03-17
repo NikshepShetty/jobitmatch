@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<interests code="15-1255.01" report="summary">
+	<high_point_code>AE</high_point_code>
+	<element id="1.B.1.c" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/interests/1.B.1.c">
+		<name>Artistic</name>
+		<description>Artistic occupations frequently involve working with forms, designs and patterns. They often require self-expression and the work can be done without following a clear set of rules.</description>
+	</element>
+	<element id="1.B.1.e" related="https://services.onetcenter.org/ws/online/occupations/15-1255.01/related/interests/1.B.1.e">
+		<name>Enterprising</name>
+		<description>Enterprising occupations frequently involve starting up and carrying out projects. These occupations can involve leading people and making many decisions. Sometimes they require risk taking and often deal with business.</description>
+	</element>
+</interests>

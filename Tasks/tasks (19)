@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1299.09" report="details" display="short">
+	<task id="16169" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16169">
+		<statement>Manage project execution to ensure adherence to budget, schedule, and scope.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">87</score>
+	</task>
+	<task id="16154" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16154">
+		<statement>Confer with project personnel to identify and resolve problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="16157" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16157">
+		<statement>Monitor or track project milestones and deliverables.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="16152" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16152">
+		<statement>Submit project deliverables, ensuring adherence to quality standards.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="16155" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16155">
+		<statement>Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="16159" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16159">
+		<statement>Initiate, review, or approve modifications to project plans.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">80</score>
+	</task>
+	<task id="16156" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16156">
+		<statement>Schedule and facilitate meetings related to information technology projects.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="16163" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16163">
+		<statement>Direct or coordinate activities of project personnel.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">78</score>
+	</task>
+	<task id="16164" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16164">
+		<statement>Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="16162" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.09/related/tasks/16162">
+		<statement>Identify need for initial or supplemental project resources.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+</tasks>

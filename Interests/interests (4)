@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<interests code="15-2051.01" report="summary">
+	<high_point_code>IEC</high_point_code>
+	<element id="1.B.1.b" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/interests/1.B.1.b">
+		<name>Investigative</name>
+		<description>Investigative occupations frequently involve working with ideas, and require an extensive amount of thinking. These occupations can involve searching for facts and figuring out problems mentally.</description>
+	</element>
+	<element id="1.B.1.e" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/interests/1.B.1.e">
+		<name>Enterprising</name>
+		<description>Enterprising occupations frequently involve starting up and carrying out projects. These occupations can involve leading people and making many decisions. Sometimes they require risk taking and often deal with business.</description>
+	</element>
+	<element id="1.B.1.f" related="https://services.onetcenter.org/ws/online/occupations/15-2051.01/related/interests/1.B.1.f">
+		<name>Conventional</name>
+		<description>Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas. Usually there is a clear line of authority to follow.</description>
+	</element>
+</interests>

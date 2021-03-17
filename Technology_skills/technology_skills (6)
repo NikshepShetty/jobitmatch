@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1221.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example hot_technology="136">Apache Kafka</example>
+		<example hot_technology="87">Eclipse IDE</example>
+		<example hot_technology="69">Integrated development environment IDE software</example>
+		<example hot_technology="114">Ruby</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tools_technology/43232106">
+		<title id="43232106">Presentation software</title>
+		<example hot_technology="2">Microsoft PowerPoint</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example hot_technology="89">Minitab</example>
+		<example hot_technology="24">SAS</example>
+		<example hot_technology="50">The MathWorks MATLAB</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tools_technology/43232304">
+		<title id="43232304">Data base management system software</title>
+		<example hot_technology="176">Amazon DynamoDB</example>
+		<example hot_technology="143">Elasticsearch</example>
+		<example hot_technology="67">MongoDB</example>
+		<example hot_technology="49">NoSQL</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1221.00/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="123">Bash</example>
+		<example hot_technology="48">Oracle Solaris</example>
+		<example hot_technology="146">Shell script</example>
+		<example hot_technology="168">UNIX Shell</example>
+	</category>
+</technology_skills>

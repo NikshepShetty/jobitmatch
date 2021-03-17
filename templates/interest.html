@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+
+{% block content%}
+{% load static %} 
+<script src="{% static 'js/interest_popup.js' %}"></script>
+
+<div id="interest_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close desktop-only" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body ">
+        <div class="row mt-2 font-weight-bold justify-content-center"><h3>Holland Code Interest Test</h3></div>
+        <div class='row font-weight-light ml-2 mr-1 mt-3'>  <p>This is the personality evaluation section of the system. We will evaluate how you will fit in, personality wise, for the various job profiles. </p>
+<p>This means you will have to answer some questions, in order for us to understand where your interests lie. This will be analysed by a tested system, namely the <span class='font-weight-bold'>Holland Codes System</span>, that will group you in a category, according to the system, that will give us a better idea of the job profile suited for you.</p>
+<p>For the test below, you will have to attempt 42 questions, and each question will have 5 options;<span class='font-weight-bold'> Agree, Mostly Agree, Neutral, Mostly Disagree, Disagree</span>.</p>
+<p>Accordingly, after answering these questions, you will be redirected to the Results page.</p></div>
+      </div>
+      <div class="modal-footer justify-content-center">
+        <button type="button" class="close" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+<div class='container'>
+<div class='text-center h1 mt-5 text-light'>Holland Code Test</div>
+    <div class='test-box mt-4 mb-4'>
+    <div class='d-none d-sm-none d-md-block'>
+        <div class="row bg-2b2b2b text-light no-gutters pb-2 pt-2">
+            <div class='col-md-6'><div class='ml-5 font-weight-bold text-light f-18'><span class='pr-5 pl-3'>Disagree - 1</span> Agree - 5</div></div>
+            <div class='col-md-6'><ul class='test-head text-center font-weight-bold f-18'><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li></ul></div>
+        </div>
+        
+        
+        </div>
+        <div class=' d-sm-block d-md-none'>
+        <div class='row mobile-only text-center justify-content-center bg-2b2b2b text-light no-gutters'>
+        <span class='pr-5'>Disagree - 1</span> Agree - 5
+        </div>
+        </div>
+        <hr class='divider'> 
+        <form id='choices' method="POST" enctype="multipart/form-data"> 
+        {{ formset.management_form }}
+        {% csrf_token %}
+        {% for question in questions %}{% for form in formset%}
+        {% if forloop.counter == forloop.parentloop.counter %}
+        <div class='row no-gutters pt-3 pb-3 {% if forloop.counter|divisibleby:2 %}bg-f44d3c{% else %}bg-light{% endif %}'>
+            <div class='col-md-6'><div class='test-questions'><span class='desktop-only'>{{forloop.counter}}. </span>{{ question.question}}</div></div>
+            <div class='col-md-6 justify-content-center'>
+            <div class='text-center'>
+            <div class='d-inline'>
+            <div class='mobile-test-label mr-1'>1</div>
+            {% for radio in form.user_choice %}
+            <div class="radio-test">
+                {{ radio.tag }}
+            </div>
+            {% endfor %}
+            <div class='mobile-test-label ml-1'>5</div>
+            </div>
+            {{ form.user_choice.errors}}
+            </div>
+            </div>
+        </div>
+        <hr class='divider'>
+        {% endif %}
+        {% endfor %}{%endfor%}
+        <div class='row justify-content-center'><input class='button1 mt-4 pl-3 pr-3 pt-1 pb-1' type="submit" value="Submit"></div>
+    </div>
+
+
+    
+</div>
+
+
+{% endblock content %}

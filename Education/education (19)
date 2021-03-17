@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<education code="15-1299.09" report="summary">
+	<level_required>
+		<category>
+			<name>Bachelor's degree</name>
+			<score scale="Percentage of Respondents">38</score>
+		</category>
+		<category>
+			<name>Associate's degree</name>
+			<score scale="Percentage of Respondents">24</score>
+		</category>
+		<category>
+			<name>Post-baccalaureate certificate</name>
+			<description>Awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree, but do not meet the requirements of academic degrees carrying the title of Master</description>
+			<score scale="Percentage of Respondents">19</score>
+		</category>
+	</level_required>
+</education>

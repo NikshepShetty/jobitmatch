@@ -1,0 +1,53 @@
+
+{% extends 'base.html' %}
+
+
+{% block content%}
+{% load static %}  
+
+
+
+<div class="container pt-5">
+       <div class="test-box pt-2 pb-3 pl-5 pr-5 mt-5 mb-5">
+      <div class="titles pt-2">
+      About Test
+      </div>
+      <div class="pt-3 pb-2 font-weight-light">
+      <p>Have you ever been able to pinpoint what you personally like in IT?</p>
+<p>Perhaps you're tired of the current job you're working at, because it just doesn't feel right for you.</p>
+<p>The overwhelming amount of information that the internet provides about the IT sector can be confusing and scary, and can demotivate anyone to
+research further.</p>
+<p>That's exactly what we attempt to provide.</p>
+
+
+
+<p>JobITmatch provides a resource in understanding the various job profiles in IT. We aim to educate you about the descriptions of the Job Profiles
+currently in the IT sector and the recommended skills required to get hired for a job in the position.</p>
+
+
+
+<p>JobITmatch also lets you assess your skills, and recommends job profiles according to your Personality and Resume.</p>
+
+
+
+<p>To head to this module of our website, click on the Start Test button below:</p>
+<br>
+<br>
+
+</div>
+
+<div class='row mb-2 justify-content-center'>
+
+<div style="font-size:1em">
+ <a href="{% url 'Test Start' %}" class="button1">Start Test</a>
+</div>
+  
+
+</div>
+
+    </div>
+    </div>
+
+    
+
+{% endblock content %}

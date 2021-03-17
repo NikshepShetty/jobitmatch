@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-2031.00" report="details" display="short">
+	<task id="7377" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7377">
+		<statement>Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">89</score>
+	</task>
+	<task id="7380" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7380">
+		<statement>Perform validation and testing of models to ensure adequacy and reformulate models as necessary.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="7381" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7381">
+		<statement>Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="20952" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/20952">
+		<statement>Present the results of mathematical modeling and data analysis to management or other end users.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="7378" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7378">
+		<statement>Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">81</score>
+	</task>
+	<task id="7379" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7379">
+		<statement>Analyze information obtained from management to conceptualize and define operational problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="7383" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7383">
+		<statement>Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="7384" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7384">
+		<statement>Prepare management reports defining and evaluating problems and recommending solutions.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="7382" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7382">
+		<statement>Define data requirements and gather and validate information, applying judgment and statistical tests.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="7387" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tasks/7387">
+		<statement>Observe the current system in operation and gather and analyze information about each of the parts of component problems, using a variety of sources.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+</tasks>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-1241.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tools_technology/43232408">
+		<title id="43232408">Web platform development software</title>
+		<example hot_technology="104">Google AngularJS</example>
+		<example hot_technology="137">Microsoft ASP.NET</example>
+		<example hot_technology="138">Microsoft ASP.NET Core MVC</example>
+		<example hot_technology="85">Spring Framework</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tools_technology/43233502">
+		<title id="43233502">Video conferencing software</title>
+		<example>Cisco Systems Webex</example>
+		<example>Videoconferencing software</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tools_technology/43232801">
+		<title id="43232801">Network monitoring software</title>
+		<example hot_technology="88">Nagios</example>
+		<example>Network intrusion prevention systems NIPS</example>
+		<example>Symantec Intruder Alert</example>
+		<example hot_technology="94">Wireshark</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tools_technology/43232402">
+		<title id="43232402">Development environment software</title>
+		<example hot_technology="134">Apache Ant</example>
+		<example hot_technology="79">Common business oriented language COBOL</example>
+		<example hot_technology="173">Go</example>
+		<example hot_technology="112">Microsoft PowerShell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-1241.00/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="123">Bash</example>
+		<example hot_technology="48">Oracle Solaris</example>
+		<example hot_technology="46">Red Hat Enterprise Linux</example>
+		<example hot_technology="168">UNIX Shell</example>
+	</category>
+</technology_skills>

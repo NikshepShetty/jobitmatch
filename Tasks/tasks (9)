@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1251.00" report="details" display="short">
+	<task id="1273" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1273">
+		<statement>Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">86</score>
+	</task>
+	<task id="1267" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1267">
+		<statement>Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="1272" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1272">
+		<statement>Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">84</score>
+	</task>
+	<task id="1270" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1270">
+		<statement>Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="1271" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1271">
+		<statement>Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="1268" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1268">
+		<statement>Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="1276" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1276">
+		<statement>Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">65</score>
+	</task>
+	<task id="1269" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1269">
+		<statement>Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">64</score>
+	</task>
+	<task id="1278" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1278">
+		<statement>Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">63</score>
+	</task>
+	<task id="1277" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1251.00/related/tasks/1277">
+		<statement>Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">57</score>
+	</task>
+</tasks>

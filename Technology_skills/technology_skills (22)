@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<technology_skills code="15-2031.00" report="summary" display="short">
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tools_technology/43232605">
+		<title id="43232605">Analytical or scientific software</title>
+		<example hot_technology="65">IBM SPSS Statistics</example>
+		<example hot_technology="89">Minitab</example>
+		<example hot_technology="24">SAS</example>
+		<example hot_technology="50">The MathWorks MATLAB</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tools_technology/43232104">
+		<title id="43232104">Word processing software</title>
+		<example hot_technology="157">Google Docs</example>
+		<example hot_technology="125">Microsoft Word</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tools_technology/43233004">
+		<title id="43233004">Operating system software</title>
+		<example hot_technology="123">Bash</example>
+		<example hot_technology="48">Oracle Solaris</example>
+		<example hot_technology="146">Shell script</example>
+		<example hot_technology="168">UNIX Shell</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tools_technology/43232405">
+		<title id="43232405">Object or component oriented development software</title>
+		<example hot_technology="148">Practical extraction and reporting language Perl</example>
+		<example hot_technology="71">R</example>
+		<example hot_technology="150">Scala</example>
+		<example hot_technology="153">Swift</example>
+	</category>
+	<category related="https://services.onetcenter.org/ws/online/occupations/15-2031.00/related/tools_technology/43231602">
+		<title id="43231602">Enterprise resource planning ERP software</title>
+		<example hot_technology="113">NetSuite ERP</example>
+		<example hot_technology="44">Oracle Hyperion</example>
+		<example hot_technology="58">Oracle JD Edwards EnterpriseOne</example>
+		<example hot_technology="26">Oracle PeopleSoft</example>
+	</category>
+</technology_skills>

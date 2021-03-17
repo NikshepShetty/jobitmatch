@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1299.03" report="details" display="short">
+	<task id="16231" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16231">
+		<statement>Conduct needs assessments to identify document management requirements of departments or end users.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">85</score>
+	</task>
+	<task id="16230" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16230">
+		<statement>Consult with end users regarding problems in accessing electronic content.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">76</score>
+	</task>
+	<task id="16219" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16219">
+		<statement>Monitor regulatory activity to maintain compliance with records and document management laws.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">75</score>
+	</task>
+	<task id="16234" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16234">
+		<statement>Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16238" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16238">
+		<statement>Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16237" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16237">
+		<statement>Administer document and system access rights and revision control to ensure security of system and integrity of master documents.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">73</score>
+	</task>
+	<task id="16240" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16240">
+		<statement>Develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="16233" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16233">
+		<statement>Assist in the assessment, acquisition, or deployment of new electronic document management systems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">71</score>
+	</task>
+	<task id="16221" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/16221">
+		<statement>Search electronic sources, such as databases or repositories, or manual sources for information.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+	<task id="20367" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1299.03/related/tasks/20367">
+		<statement>Keep abreast of developments in document management technologies and techniques by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">70</score>
+	</task>
+</tasks>

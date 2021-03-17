@@ -1,0 +1,100 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    
+    {% load static %}  
+    {% load crispy_forms_tags %}
+    {{ form.media.css }}
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="{% static 'css/style.css' %}" rel="stylesheet" >
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link href="{% static 'css/tokenize2.min.css' %}" rel="stylesheet" />
+
+
+    {{ form.media.js }}
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="{% static 'js/tokenize2.min.js' %}"></script>
+    <script src="https://kit.fontawesome.com/b7ef6b1cd9.js" crossorigin="anonymous"></script>
+    
+</head>  
+<body class="bg-light">  
+    <!-- Navbar -->
+    <div class='page-container'>
+    <div class='content-wrap'>
+    <nav class="navbar sticky-top navbar-expand-lg">
+    <div class="container">
+      <img src="{% static 'images/logo-right.png' %}" class="navbar-brand logo-left"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+   <i class="fas fa-bars"></i>
+  </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto w-100">
+            <li class="nav-item">
+            <a class="nav-link {% if nbar == 'home' %} active {% endif %}" href="{% url 'Home' %}"><i class="fas fa-home fa-lg mr-2"></i>Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if nbar == 'job_profile' %}active{% endif %}" href="{% url 'Job Profile' %}"><i class="fas fa-briefcase fa-lg mr-2"></i>Job Profiles</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link {% if nbar == 'about' %}active{% endif %}" href="{% url 'About' %}"><i class="fas fa-info-circle fa-lg mr-2"></i>About</a>
+            </li>
+            
+                          
+        </ul>
+        <ul class='navbar-nav justify-content-end w-100'>
+    
+        <li class="nav-item login_btn">
+                {% if user.is_authenticated %}
+                    <a class="nav-link" href="{% url 'account_logout' %}">Hi! {{request.user.first_name}}<i class="ml-2 fa fa-sign-out fa-lg" aria-hidden="true"></i></a>
+                {% else %}
+                    <a class="nav-link" href="{% url 'account_login' %}"><i class="mr-2 fa fa-sign-in fa-lg" aria-hidden="true"></i>Log-in</a>
+                {% endif %}
+        </li>
+        </ul>
+        
+      </div>
+      
+    </div>
+  </nav>
+  
+    {% block content %}
+    {% endblock content %}
+    
+  </div>
+  <!-- Footer -->
+  
+  <footer>
+  <div class="container p-4 pb-0">
+  <div class="row justify-content-center mt-1">Follow us at</div>
+    <div class="row mb-2 mt-2 justify-content-center">
+      <!-- Facebook -->
+      <a class="btn btn-primary btn-floating m-1 mx-3" style="background-color: #3b5998; border: 1px solid #3b5998" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+
+      <!-- Twitter -->
+      <a class="btn btn-primary btn-floating m-1 mx-3" style="background-color: #55acee; border: 1px solid #55acee" href="#!" role="button"><i class="fab fa-twitter"></i></a>
+
+
+      <!-- Linkedin -->
+      <a class="btn btn-primary btn-floating m-1 mx-3" style="background-color: #0082ca; border: 1px solid #0082ca" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+    <div class="row justify-content-center mt-4">
+  For Help and Queries, Mail us at<a class='ml-2' href='mailto:nvsquare.business@gmail.com'>nvsquare.business@gmail.com</a>
+  </div>
+  </div>
+  
+  </footer>
+
+</div>
+</body>  
+</html> 

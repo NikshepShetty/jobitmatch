@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tasks code="15-1244.00" report="details" display="short">
+	<task id="1318" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1318">
+		<statement>Maintain and administer computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">82</score>
+	</task>
+	<task id="1317" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1317">
+		<statement>Perform data backups and disaster recovery operations.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">79</score>
+	</task>
+	<task id="15205" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/15205">
+		<statement>Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">77</score>
+	</task>
+	<task id="15206" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/15206">
+		<statement>Configure, monitor, and maintain email applications or virus protection software.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">74</score>
+	</task>
+	<task id="1320" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1320">
+		<statement>Operate master consoles to monitor the performance of computer systems and networks, and to coordinate computer network access and use.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">72</score>
+	</task>
+	<task id="1325" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1325">
+		<statement>Monitor network performance to determine whether adjustments need to be made, and to determine where changes will need to be made in the future.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="1319" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1319">
+		<statement>Plan, coordinate, and implement network security measures to protect data, software, and hardware.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">69</score>
+	</task>
+	<task id="1329" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1329">
+		<statement>Analyze equipment performance records to determine the need for repair or replacement.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">66</score>
+	</task>
+	<task id="1324" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1324">
+		<statement>Confer with network users about how to solve existing system problems.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">64</score>
+	</task>
+	<task id="1323" green="false" related="https://services.onetcenter.org/ws/online/occupations/15-1244.00/related/tasks/1323">
+		<statement>Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.</statement>
+		<category>Core</category>
+		<score scale="Importance" important="true">64</score>
+	</task>
+</tasks>
