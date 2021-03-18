@@ -2,8 +2,6 @@ from django import forms
 from .models import resume, manual_input, technical_list
 from .validate import file_size,validate_file_extension
 from django.core.validators import MaxValueValidator, MinValueValidator
-from django_select2 import forms as s2forms
-from django_select2.forms import Select2TagWidget
 from django.db.models.fields import BLANK_CHOICE_DASH
 
 
