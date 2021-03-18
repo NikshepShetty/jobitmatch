@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from .models import resume,manual_input,Final_Results,Job_description,Technical_skill,Related_job_profile,Skills,Knowledge,Education
 from heapq import nlargest 
-from courses.skill_mapper import skill_checker
+
 
 
 def pdf_to_string(file):
@@ -64,4 +64,4 @@ def similarity(userid,filtered_list):
         recommended_jobs=job
     )
     jobs.save()
-    skill_checker(userid)
+    

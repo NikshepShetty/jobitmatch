@@ -9,7 +9,7 @@ from .job_filter import holland_filter
 from courses.models import user_lacking_skills,coursera_db
 from django.template.defaulttags import register
 from courses.recommendation import keylist
-
+from courses.skill_mapper import skill_checker
 
 
 @login_required
@@ -195,6 +195,7 @@ def add_space_after_comma(value):
 
 @login_required
 def result_view(request):
+    skill_checker(request.user.id)
     jobs=""
     if Final_Results.objects.filter(user=request.user.id).exists():
         jobs=Final_Results.objects.get(user=request.user.id).recommended_jobs
