@@ -57,9 +57,11 @@ def create_profile(file):
     pro8 = [nlp(text) for text in keyword_dict['Computer Programmers'].dropna(axis = 0)]
     pro9 = [nlp(text) for text in keyword_dict['Computer Systems Analysts'].dropna(axis = 0)]
     pro10 = [nlp(text) for text in keyword_dict['Computer Systems Engineers Architects'].dropna(axis = 0)]
+    pro11 = [nlp(text) for text in keyword_dict['Computer User Support Specialists'].dropna(axis = 0)]
     pro12 = [nlp(text) for text in keyword_dict['Data Warehousing Specialists'].dropna(axis = 0)]
     pro13 = [nlp(text) for text in keyword_dict['Database Administrators'].dropna(axis = 0)]
     pro14 = [nlp(text) for text in keyword_dict['Database Architects'].dropna(axis = 0)]
+    pro15 = [nlp(text) for text in keyword_dict['Document Management Specialists'].dropna(axis = 0)]
     pro16 = [nlp(text) for text in keyword_dict['Geographic Information Systems Technologists and Technicians'].dropna(axis = 0)]
     pro17 = [nlp(text) for text in keyword_dict['Health Informatics Specialists'].dropna(axis = 0)]
     pro18 = [nlp(text) for text in keyword_dict['Information Security Analysts'].dropna(axis = 0)]
@@ -85,9 +87,11 @@ def create_profile(file):
     matcher.add('Computer Programmers', None, *pro8)
     matcher.add('Computer Systems Analysts', None, *pro9)
     matcher.add('Computer Systems Engineers Architects', None, *pro10)
+    matcher.add('Computer User Support Specialists', None, *pro11)
     matcher.add('Data Warehousing Specialists', None, *pro12)
     matcher.add('Database Administrators', None, *pro13)
     matcher.add('Database Architects', None, *pro14)
+    matcher.add('Document Management Specialists', None, *pro15)
     matcher.add('Geographic Information Systems Technologists and Technicians', None, *pro16)
     matcher.add('Health Informatics Specialists', None, *pro17)
     matcher.add('Information Security Analysts', None, *pro18)
