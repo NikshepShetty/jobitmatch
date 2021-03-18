@@ -59,15 +59,6 @@
 
 
 
-      <div class="row mt-4 ml-2 mb-1 font-weight-bold"> Technology Skills </div>
-      
-      {% with tech_skills=info_dict|keyvalue:job_name  %}
-        {% with tech_skills=tech_skills.2|add_space_after_comma  %}
-            <div class='row ml-2'>{{tech_skills}}.</div>
-        {% endwith %}
-      {% endwith %}
-
-
       <div class="row mt-4 ml-2 mb-1 font-weight-bold"> Example of Job Titles </div>
       
       {% with job_title=info_dict|keyvalue:job_name  %}

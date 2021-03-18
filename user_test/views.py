@@ -240,7 +240,6 @@ def result_view(request):
         temp_list=[]
         temp_list.append(Related_job_profile.objects.get(job_profile=job).Related_jobs)
         temp_list.append(Job_description.objects.get(job_profile=job).description)
-        temp_list.append(Technical_skill.objects.get(job_profile=job).Technical_skills)
         info_dict[job]=temp_list
     return render(request,'result.html',{"jobs":jobs,"lacking_skills":lacking_skills,"course_dict":course_dict,"info_dict":info_dict,"Hscore":hollandScore})
     
