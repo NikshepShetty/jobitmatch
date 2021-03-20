@@ -48,10 +48,10 @@
     <div class='row no-gutters justify-content-center mt-3'><div class="col-md-12 d-flex justify-content-center">
          <button class='button1 pl-6p3 pr-6p3 pt-2 pb-2' type="submit">Submit</button>
  </div></div>
-    <div class='row no-gutters justify-content-center mt-3'><div class="col-md-12 d-flex justify-content-center">
+    {% comment %} <div class='row no-gutters justify-content-center mt-3'><div class="col-md-12 d-flex justify-content-center">
         <a href="{% provider_login_url 'google' %}" class="submit a_as_button pl-5 pr-5 pt-2 pb-2 btn btn-outline-dark bg-light" style="text-transform:none; color:black"><img width="20px" style="margin-bottom:3px; margin-right:5px" alt="Google sign-in" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png" />
       Login with Google </a>
- </div></div>
+ </div></div> {% endcomment %}
 
  <div class='row justify-content-center mt-3'>Don't have an account? <a class='ml-1' href='{% url 'account_signup' %}'>Signup now</a></div>
     </form>
