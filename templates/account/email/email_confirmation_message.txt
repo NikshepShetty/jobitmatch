@@ -3,6 +3,6 @@
 {% load account %}
 {% load i18n %}
 
-{% block content %}{% autoescape off %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Welcome to {{ site_domain }}!. 
+{% block content %}{% autoescape off %}{% blocktrans with site_name="www.jobitmatch.com" %} 
 
 Click on this activation link - {{ activate_url }} to confirm from regristration.{% endblocktrans %}{% endautoescape %}{% endblock %}
