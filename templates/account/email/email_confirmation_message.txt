@@ -4,5 +4,4 @@
 {% load i18n %}
 
 {% block content %}{% autoescape off %}{% blocktrans with site_name="www.jobitmatch.com" %} 
-
 Click on this activation link - {{ activate_url }} to confirm from registration.{% endblocktrans %}{% endautoescape %}{% endblock %}

@@ -1,7 +1,7 @@
-{% load i18n %}{% autoescape off %}{% blocktrans with site_name="www.jobitmatch.com" %}Hello from {{ site_name }}!{% endblocktrans %}
+{% load i18n %}{% autoescape off %}{% blocktrans with site_name="www.jobitmatch.com" %}Hello from {{ site_name }} !{% endblocktrans %}
 
 {% block content %}{% endblock %}
 
-{% blocktrans with site_name="www.jobitmatch.com" site_domain="www.jobitmatch.com" %}Thank you for using {{ site_name }}!
+{% blocktrans with site_name="www.jobitmatch.com" site_domain="www.jobitmatch.com" %}Thank you for using {{ site_name }} !
 {{ site_domain }}{% endblocktrans %}
 {% endautoescape %}
