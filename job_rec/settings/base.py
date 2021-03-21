@@ -176,9 +176,9 @@ ACCOUNT_SIGNUP_FORM_CLASS = 'pages.forms.SignupForm'
 ACCOUNT_EMAIL_SUBJECT_PREFIX = ''
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
-EMAIL_PORT = 587
-EMAIL_HOST_USER = os.environ.get('EMAIL_USER')
-EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASS')
+EMAIL_HOST = os.environ.get('MAILGUN_SMTP_SERVER', '')
+EMAIL_PORT = os.environ.get('MAILGUN_SMTP_PORT', '')
+EMAIL_HOST_USER = os.environ.get('MAILGUN_SMTP_LOGIN', '')
+EMAIL_HOST_PASSWORD = os.environ.get('MAILGUN_SMTP_PASSWORD', '')
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
