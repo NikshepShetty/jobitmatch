@@ -10,6 +10,8 @@ html, body {
   
 }
 
+
+
 hr.divider { 
   margin: 0em;
   border-width: 2px;
@@ -27,9 +29,16 @@ hr.divider {
 }
 
 .titles{
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
   text-align: center;
+}
+
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+    display:block;
 }
 
 .ml-2p7{
@@ -86,10 +95,11 @@ ul.no-margin{
   padding-top: 0px !important;
   padding-bottom: 0px !important;
 }
-.active{
+.nav-link.active{
   color: #cdcdcd !important;
   background-color:#f44d3c;
 }
+
 
 a.nav-link{
   margin: 0rem !important;
@@ -195,6 +205,7 @@ footer{
   height: auto;
   padding-bottom: 2rem;
   padding-top: 0rem;
+  font-size: 14pt;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color:rgba(255, 255, 255, 0.75);
   margin: 10rem;
