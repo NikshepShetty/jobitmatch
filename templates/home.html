@@ -8,11 +8,15 @@
 
 
 <div class="container pt-5">
-       <div class="test-box pt-2 pb-3 pl-5 pr-5 mt-5 mb-5">
-      <div class="titles pt-2">
-      About Test
+
+    <div id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="6000">
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+                 <div class="test-box pt-2 pb-3 pl-5 pr-5 mt-5 mb-5">
+      <div class="titles pt-2 pb-2">
+      Welcome to jobITmatch!
       </div>
-      <div class="pt-3 pb-2 font-weight-light">
+      <div class="pt-3">
       <p>Have you ever been able to pinpoint what you personally like in IT?</p>
 <p>Perhaps you're tired of the current job you're working at, because it just doesn't feel right for you.</p>
 <p>The overwhelming amount of information that the internet provides about the IT sector can be confusing and scary, and can demotivate anyone to
@@ -32,7 +36,6 @@ currently in the IT sector and the recommended skills required to get hired for 
 
 <p>To head to this module of our website, click on the Start Test button below:</p>
 <br>
-<br>
 
 </div>
 
@@ -41,11 +44,91 @@ currently in the IT sector and the recommended skills required to get hired for 
 <div style="font-size:1em">
  <a href="{% url 'Test Start' %}" class="button1">Start Test</a>
 </div>
-  
 
 </div>
-
     </div>
+
+            </div>
+            <div class="carousel-item">
+            <div class="test-box  pt-2 pb-3 pl-5 pr-5 mt-5 mb-5">
+
+            <div class="titles pt-2 pb-2">
+            Job Profiles
+            </div>
+
+            <div class="pt-3">
+            <p>Our website is an information hub for the different job profiles in the IT Sector. We provide the information necessary to understand the job of your liking and the
+            position and role you'd have to handle in the job.</p><p> We update our list regularly so you won't miss out on any new job profiles in the market. You can check this out
+            for yourself by clicking the button below, or you can head on over the the testing module to see the job best fit for you, and then head on over here to get a
+            better understanding of the choice recommended to you.</p>
+
+
+            </div>
+
+
+            <div class='row mb-2 pt-3 justify-content-center'>
+
+            <div style="font-size:1em">
+             <a href="{% url 'Job Profile' %}" class="button1">Learn More</a>
+            </div>
+
+            </div>
+
+
+            </div>
+                
+                
+            </div>
+
+            <div class="carousel-item">
+            <div class="test-box  pt-2 pb-3 pl-5 pr-5 mt-5 mb-5">
+
+            <div class="titles pt-2 pb-2">
+            O*Net
+            </div>
+
+            <div class="pt-3">
+            <p>O*NET is our websites source for occupational information. Valid data is essential to understanding the rapidly changing nature of work and how it impacts the
+            workforce, and so O*Net serves as a medium to deliver this.</p><p>The O*NET database, contains hundreds of standardized and occupation-specific descriptors on almost 1,000 occupations covering
+            the entire workforce. We on our website have primarily only focussed on IT job profiles, but O*Net provides descriptions on overy job profile imaginable. To get a better idea of what
+            their whole idea is, head on over their website mentioned down below.</p>
+
+
+            </div>
+
+
+            <div class='row mb-2 pt-3 justify-content-center'>
+
+            <div style="font-size:1em">
+             <a target="_blank" href="https://www.onetonline.org/" class="button1">Visit O*Net</a>
+            </div>
+
+            </div>
+
+
+            </div>
+                
+                
+            </div>
+
+        </div>
+        <a class="carousel-control-prev" href="#carouselContent" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselContent" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+       
+
+
+
+
+
+
     </div>
 
     
