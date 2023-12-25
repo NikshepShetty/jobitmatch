@@ -1,4 +1,4 @@
-# Job Recommendation Platform
+# Job Recommendation Platform - JobITmatch
 
 ## Overview
 This Django-based website is designed to help users find jobs that are a good fit for them, based on their resumes and personality test results. It not only suggests jobs but also recommends relevant online courses to enhance users' skills and qualifications for these roles.
@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them:
 
-Code was developed and tested on Python 3.8, performance on newer python version unknown.
+Code was developed and tested on Python 3.8, performance on newer python versions unknown.
 
 ### Installing
 A step by step series of examples that tell you how to get a development environment running:
